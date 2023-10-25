@@ -1,0 +1,202 @@
+
+  
+
+*{
+padding: 0%;
+margin: 0%;
+}
+.head{
+    width: 100%;
+    height: 100px;
+    background-color: green;
+    display: flex;
+}
+.sprit{
+    width: 15%;
+    height: 100px;
+ 
+}
+ .nav-bar{ 
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+     padding: 20px 0; 
+     background-color: #009b4e;
+     width: 100%;
+}
+.logo{
+    width: 150px;
+    cursor: pointer;
+    margin: 10px 0;
+}
+.about{
+    cursor: pointer;
+    padding: 15px;
+    gap: 5px;
+    color: white;
+    
+}
+.about span{
+    margin-right: 13px;
+    font-size: 21px;
+    color: white;
+    font-family:poppins ;
+}
+.about a {
+    text-decoration: none;
+}
+.icon img {
+    cursor: pointer;
+    padding-right: 50px;
+    justify-content: space-evenly;
+}
+
+.Sprite-body img{
+    width:100%;
+}
+.mid{
+    width: 100%;
+    height: 600px;
+    background-color:#B30B43;
+}
+.mid  h1{
+    font-size: 40px;
+    padding-top: 50px;
+   text-align: center;
+   color: white;
+}
+.mid h3{
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    font-weight: boild;
+    padding-left: 450px;
+    text-align: justify;
+}
+.mid h2{
+    padding-right:400px;
+    padding-top: 40px;
+    font-size: 20px;
+}
+.mid input{
+    width: 550px;
+    height: 45px;
+    border-radius: 25px;
+    
+}
+.value h2{
+    text-align: center;
+    padding-top: 40px;
+    color: white;
+    padding-right:900px;
+}
+.buddy{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 460px;
+    
+}
+.buddy select{
+    
+  border-radius: 40px;
+    padding-left:200px;
+    font-size: 16px;
+    height: 50px;
+    width: 100px;
+    
+}
+.care{
+    display: flex;
+    justify-content: space-between;
+}
+
+.care img{
+padding-left: 15px;
+height: 400px;
+width:650px;
+padding-top: 70px;
+
+}
+.care h1{
+    color: green;
+    padding-left: 100px;
+    padding-top: 120px;
+    font-size: 90px;
+    font-weight: 900;
+
+
+}
+.footer{
+    height: 340px;
+    padding-top: 129px;
+    width: 100%;
+    background-color: #009b4e;
+   
+}
+.kog{
+    display: flex;
+    justify-content: space-evenly;
+}
+.zop{
+    width: 150px;
+    height: 50px;
+    padding-left: 80px;
+    cursor: pointer;
+    
+}
+
+.zippy h3{
+    font-size: small;
+    padding-right: 400px;
+    color:white;
+   
+}
+.jogo{
+  
+    display: flex;
+}
+.jogo img{
+    width: 30px;
+    height: 20px;
+    margin: 3px;
+    cursor: pointer;
+}
+.mongo{
+    justify-content: space-between;
+}
+.mongo h3{
+    color: white;
+    font-size: medium;
+    font-style: unset;
+
+    
+
+}
+.mongo p{
+    color: white;
+    font-size: medium;
+    font-style: unset;
+    padding-top: 10px;
+    cursor: pointer;
+}
+.ling{
+    display: flex;
+    justify-content: space-evenly;
+}
+.ling p{
+    color: white;
+    font-size: 15px;
+    margin-top: 70px;
+}
+.wing{
+    display: flex;
+    justify-content: center;
+    padding-left: 10px;
+
+    
+}
+.wing p{
+    margin: 10px;
+    color: white;
+    
+}
